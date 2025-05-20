@@ -11,12 +11,12 @@ def subtract(x, y):
 
 # This function multiplies two numbers
 def multiply(x, y):
-    print x*y
+    print (x*y)     #괄호를 붙임.
     return x * y
 
 #Need to define divide function.
 def divide (x,y):
-    print x/y
+    print (x/y)
     return x/y
 
 print("Calculator started.")
